@@ -1,0 +1,10 @@
+db name -
+user name -
+password -
+
+Deply lara project
+
+1. Create db
+2. Create Sub domain
+3. project to zip create
+4. upload to server (sub domain)
